@@ -5,8 +5,8 @@ Image resizer using Bilinear Interpolation and Bicubic Algorithm
 **ImageResizerNet** is a deep learning project focused on advanced image resizing techniques using both traditional and learnable methods. This repository implements custom Convolutional Neural Networks (CNNs) integrated with bicubic and bilinear interpolation techniques, inspired by cutting-edge research in the field.
 
 ## Features
-- **Bicubic Resizer (`bicubicresize.py`)**: Implements smooth, high-quality image scaling using cubic interpolation. This method is effective for detailed image resizing with minimal distortion.
-- **Bilinear Resizer (`imgresizebilinear.py`)**: Offers efficient and fast image resizing using bilinear interpolation, suitable for applications where speed is crucial.
+- **Bicubic Resizer (`BicubicResizer.py`)**: Implements smooth, high-quality image scaling using cubic interpolation. This method is effective for detailed image resizing with minimal distortion.
+- **Bilinear Resizer (`BilinearResizer.py`)**: Offers efficient and fast image resizing using bilinear interpolation, suitable for applications where speed is crucial.
 
 ## Usage
 ### Bicubic Interpolation
