@@ -11,7 +11,7 @@ Image resizer using Bilinear Interpolation and Bicubic Algorithm
 ## Usage
 ### Bicubic Interpolation
 ```bash
-python ****icubicResizer.py
+python BicubicResizer.py
 ```
 
 ### Bilinear Interpolation
